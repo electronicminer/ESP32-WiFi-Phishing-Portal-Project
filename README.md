@@ -1,6 +1,6 @@
 # ESP32-WiFi-Phishing-Portal-Project
 ESP32 WiFi Phishing Portal Project
-# ESP32 WiFi 钓鱼门户项目
+# ESP32 WiFi 钓鱼门户项目 模仿安徽大学的校园网登录界面 ahu.portal
 
 本项目是一个基于 ESP32 的 WiFi 钓鱼门户示例，展示了如何创建一个仿真的登录页面，用于收集用户输入的账号和密码信息。**请注意，此项目仅用于教育和研究目的，严禁用于非法用途。**
 
